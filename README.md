@@ -9,5 +9,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rogueloop)](https://git.io/streak-stats)
 
-
-[![rogueloop's GitHub | Languages Over Time](https://stats.quira.sh/rogueloop/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=rogueloop)
