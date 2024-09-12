@@ -7,3 +7,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rogueloop)](https://git.io/streak-stats)
 
+[![](https://visitcount.itsvg.in/api?id=sreedeepCV&label=Profile%20Views&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
