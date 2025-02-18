@@ -7,4 +7,3 @@
 - 𝕏 [rev3rs3_h3ro](https://x.com/rev3rs3_h3ro)
 
 
-[![](https://visitcount.itsvg.in/api?id=sreedeepCV&label=Profile%20Views&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
