@@ -6,6 +6,5 @@
 - 📫 [linkedin](https://www.linkedin.com/in/%F0%9F%98%8Esreedeep-cv-b7a486202/)
 - 𝕏 [rev3rs3_h3ro](https://x.com/rev3rs3_h3ro)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rogueloop)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=sreedeepCV&label=Profile%20Views&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
