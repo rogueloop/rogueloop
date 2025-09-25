@@ -3,7 +3,7 @@
 - 🐱‍👤 Hacker
 - 🐱‍🏍 programmer
 - 🎶 Violine 
-- 📫 [linkedin](https://www.linkedin.com/in/%F0%9F%98%8Esreedeep-cv-b7a486202/)
+- 📫 [linkedin](https://www.linkedin.com/in/sreedeep-cv-b7a486202/)
 - 𝕏 [rev3rs3_h3ro](https://x.com/rev3rs3_h3ro)
 
 
